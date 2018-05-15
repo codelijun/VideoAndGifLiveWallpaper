@@ -1,0 +1,2 @@
+# VideoAndGifLiveWallpaper
+这是一个动态壁纸的Simple,支持设置gif格式和mp4格式的文件作为动态壁纸.
